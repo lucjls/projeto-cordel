@@ -71,7 +71,7 @@ section.imagem>p {
     
 }
 section#img01 {
-    background-image: url'(../desafio012/imagens/background001.jpg');
+    background-image: url('../desafio012/imagens/background001.jpg');
     background-position: right center;
     background-size: cover;
 }
